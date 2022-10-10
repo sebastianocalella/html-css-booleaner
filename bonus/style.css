@@ -1,0 +1,69 @@
+body > header{
+    background: url(./img/pattern.png);
+    background-color: #4EA0FF;
+    background-repeat: repeat-x;
+    background-size: 35%;
+}
+
+.logo{
+    width: 15rem;
+    height: auto;
+    padding: 1%;
+}
+
+h1{
+    font-size: 3.6rem;
+}
+
+header > p a{
+    color: #36B1E7;
+    text-decoration: underline;
+}
+
+.grey{
+    color: #808080;
+    font-size: 1.8rem;
+}
+
+article{
+    font-size: 1.5rem;
+}
+
+.evidence{
+    background-color: #FFFF00;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.shots{
+    background-color: #B1E5F2;
+}
+
+h3{
+    color: white;
+}
+
+footer > div {
+    width: auto;
+    height: 208px;
+    font-size: 1.5rem;
+}
+
+.link_1{
+    background: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+}
+
+.link_2{
+    background: url(./img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+}
