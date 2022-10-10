@@ -2,3 +2,16 @@ header{
     background: url(./img/pattern.png);
     background-color: #4EA0FF;
 }
+
+h1{
+    font-size: 4rem;
+}
+
+p span{
+    color: #36B1E7;
+}
+
+header > p{
+    color: #808080;
+    font-size: 2rem;
+}
