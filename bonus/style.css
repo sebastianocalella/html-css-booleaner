@@ -1,9 +1,20 @@
-body > header{
+body{
+    background: url(./img/background.jpg);
+}
+
+body > div > header{
     background: url(./img/pattern.png);
     background-color: #4EA0FF;
     background-repeat: repeat-x;
     background-size: 35%;
 }
+
+.back{
+    background-color: rgb(220, 230, 255,0.8);
+    padding: 2%;
+    border-radius: 20px;
+}
+
 
 .logo{
     width: 15rem;
@@ -21,7 +32,7 @@ header > p a{
 }
 
 .grey{
-    color: #808080;
+    color: #6a6262;
     font-size: 1.8rem;
 }
 
@@ -29,12 +40,24 @@ article{
     font-size: 1.5rem;
 }
 
+.photos_box{
+    display: inline-block;
+    margin-left: 15%;
+}
+
 .evidence{
     background-color: #FFFF00;
+    padding-left: 1px;
+    padding-right: 1px;
+    border-radius: 10px;
 }
 
 table{
     border-collapse: collapse;
+}
+
+td{
+    padding-left: 1rem;
 }
 
 thead{
@@ -44,6 +67,10 @@ thead{
 
 .shots{
     background-color: #B1E5F2;
+}
+
+.even{
+    background-color: wheat;
 }
 
 h3{
