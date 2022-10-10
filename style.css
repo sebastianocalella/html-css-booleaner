@@ -6,7 +6,7 @@ body > header{
 }
 
 .logo{
-    width: 20%;
+    width: 15rem;
     height: auto;
     padding: 1%;
 }
@@ -15,8 +15,9 @@ h1{
     font-size: 3.6rem;
 }
 
-header > p span{
+header > p a{
     color: #36B1E7;
+    text-decoration: underline;
 }
 
 .grey{
