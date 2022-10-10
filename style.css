@@ -48,3 +48,21 @@ thead{
 h3{
     color: white;
 }
+
+footer > div {
+    width: auto;
+    height: 208px;
+    font-size: 1.5rem;
+}
+
+.link_1{
+    background: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+}
+
+.link_2{
+    background: url(./img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+}
