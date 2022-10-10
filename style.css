@@ -1,4 +1,4 @@
-header{
+body > header{
     background: url(./img/pattern.png);
     background-color: #4EA0FF;
 }
@@ -22,4 +22,21 @@ article{
 
 .evidence{
     background-color: #FFFF00;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.shots{
+    background-color: #B1E5F2;
+}
+
+h3{
+    color: white;
 }
