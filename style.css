@@ -7,11 +7,19 @@ h1{
     font-size: 4rem;
 }
 
-p span{
+header > p span{
     color: #36B1E7;
 }
 
-header > p{
+.grey{
     color: #808080;
     font-size: 2rem;
+}
+
+.paragraph{
+    font-size: 1.5rem;
+}
+
+.evidence{
+    background-color: #FFFF00;
 }
