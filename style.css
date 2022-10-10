@@ -1,10 +1,18 @@
 body > header{
     background: url(./img/pattern.png);
     background-color: #4EA0FF;
+    background-repeat: repeat-x;
+    background-size: 35%;
+}
+
+.logo{
+    width: 20%;
+    height: auto;
+    padding: 1%;
 }
 
 h1{
-    font-size: 4rem;
+    font-size: 3.6rem;
 }
 
 header > p span{
@@ -13,7 +21,7 @@ header > p span{
 
 .grey{
     color: #808080;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 article{
